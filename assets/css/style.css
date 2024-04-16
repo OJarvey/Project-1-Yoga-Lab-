@@ -8,5 +8,43 @@
   }
 
   #menu li {
+    float: right;
+    margin-left: 20px;
     display: inline;
+  }
+
+  #menu li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #000;
+}
+
+#menu li a:hover {
+    background-color: #ddd;
+  }
+
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+  }
+  
+  header {
+    /* Your existing header styles */
+  }
+
+  footer {
+    margin-top: auto; 
+    text-align: center; 
+  }
+
+  #social-networks {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #social-networks li {
+    display: inline;
+    margin: 0 10px; 
   }
