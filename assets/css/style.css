@@ -1,3 +1,16 @@
+#logo {
+  text-decoration: none;
+}
+
+#subtitle {
+  font-size: 18px;
+  text-align: left; 
+}
+
+header {
+  text-align: left;
+}
+
 #menu {
     list-style-type: none;
     margin: 0;
@@ -10,6 +23,7 @@
   #menu li {
     float: right;
     margin-left: 20px;
+    margin: 0 10px;
     display: inline;
   }
 
@@ -29,12 +43,9 @@
     flex-direction: column;
     min-height: 100vh; 
   }
-  
-  header {
-    
-  }
 
-  footer {
+
+    footer {
     margin-top: auto; 
     text-align: center; 
   }
@@ -42,6 +53,7 @@
   #social-networks {
     list-style-type: none;
     padding: 0;
+    text-align: center;
   }
   
   #social-networks li {
