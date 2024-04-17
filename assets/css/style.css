@@ -4,7 +4,7 @@
 * {
   padding: 0;
   margin: 0;
-  box-sizing: border-box;
+  box-sizing: border-box
 }
 
 /*Body*/
@@ -38,6 +38,11 @@ main {
 header {
   text-align: left;
   background-color: #CCD5AE;
+  position: fixed;
+  padding: 0 1rem;
+  z-index: 99;
+  width: 100%;
+  box-shadow: 0 2px 2px #D4A373;
 }
 
 h1 {
