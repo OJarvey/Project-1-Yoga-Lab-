@@ -12,7 +12,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   color: #3a3a3a;
-  font-family: 'Sedan' cursive;
+  font-family: sans-serif;
 }
 
 /*Logo*/
@@ -58,10 +58,12 @@ main {
 
 /*Menu*/
 #menu {
+  font-size: 110%;
+  letter-spacing: 4px;
   list-style-type: none;
   margin: 0;
   padding: 0;
-  position: absolute;
+  position:absolute;
   top: 0;
   right: 0;
 }
@@ -73,6 +75,10 @@ main {
   display: inline;
 }
 
+#menu > li {
+  margin-bottom: 1em;
+}
+
 #menu li a {
   display: block;
   padding: 10px 20px;
@@ -82,6 +88,20 @@ main {
 
 #menu li a:hover {
   background-color: #ddd;
+}
+
+.active {
+  border-bottom: 1px solid #3a3a3a;
+}
+
+nav {
+  position: absolute;
+  background-color: #ffffff;
+  width: 100%;
+  left: 0;
+  padding: 0 1rem;
+  box-shadow: 0 2px 2px #3a3a3a;
+  display: none;
 }
 
 /*Footer*/
