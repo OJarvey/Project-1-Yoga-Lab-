@@ -9,6 +9,7 @@
 
 header {
   text-align: left;
+  background-color: #FEFAE0;
 }
 
 #menu {
@@ -48,6 +49,7 @@ header {
     footer {
     margin-top: auto; 
     text-align: center; 
+    background-color: #D4A373;
   }
 
   #social-networks {
