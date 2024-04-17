@@ -1,6 +1,4 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap')
-</style>
+<style>@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap') </style>
 
 /*Asterisk wildcard selector to override default styles added by the browser*/
 * {
@@ -15,11 +13,11 @@ body {
   flex-direction: column;
   min-height: 100vh;
   color: #3a3a3a;
-  font-family: 'Lato' cursive;
+  font-family: 'Sedan' cursive;
 }
 
 main {
-  background-color: hsl(0, 0%, 100%);
+  background-color: #FEFAE0;
   flex: 1 0 auto;
 }
 
@@ -32,13 +30,20 @@ main {
 #subtitle {
   font-size: 18px;
   text-align: left;
+  font-family: "Pacifico", cursive;
+  font-style: italic;
 }
 
 /*Header*/
 header {
   text-align: left;
-  background-color: #FEFAE0;
+  background-color: #CCD5AE;
 }
+
+h1 {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
 
 /*Menu*/
 #menu {
