@@ -4,7 +4,6 @@
 * {
   padding: 0;
   margin: 0;
-  box-sizing: border-box
 }
 
 /*Body*/
@@ -14,11 +13,6 @@ body {
   min-height: 100vh;
   color: #3a3a3a;
   font-family: 'Sedan' cursive;
-}
-
-main {
-  background-color: #FEFAE0;
-  flex: 1 0 auto;
 }
 
 /*Logo*/
@@ -37,7 +31,7 @@ main {
 /*Header*/
 header {
   text-align: left;
-  background-color: #CCD5AE;
+  background-color: #E9EDC9;
   position: fixed;
   padding: 0 1rem;
   z-index: 99;
@@ -45,10 +39,22 @@ header {
   box-shadow: 0 2px 2px #D4A373;
 }
 
-h1 {
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+header a {
+  text-decoration: none;
+  color: inherit;
 }
 
+h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #D4A373;
+}
+
+main {
+  background-color: #FEFAE0;
+  flex: 1 0 auto;
+}
 
 /*Menu*/
 #menu {
