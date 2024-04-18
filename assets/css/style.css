@@ -104,6 +104,26 @@ main {
   content: "\2630";
 }
 
+/* Drop down Menu */
+.dropdown {
+  position: relative;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid #ccc;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
 .active {
   border-bottom: 1px solid #3a3a3a;
 }
