@@ -137,13 +137,21 @@ footer {
 /*Social-Networks*/
 #social-networks {
   list-style-type: none;
-  padding: 0;
+  padding: 20 px 0;
   text-align: center;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 #social-networks li {
   display: inline;
   margin: 0 10px;
+}
+
+#social-networks i {
+  font-size: 160%;
+  padding: 5%;
+  color: #E9EDC9;
 }
 
 /* Media query: tablets and larger (768px and up) */
