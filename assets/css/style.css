@@ -74,8 +74,8 @@ main {
 
 #menu li {
   float: right;
-  margin-left: 20px;
-  display: inline;
+  margin: 0 10px;
+  display: block;
 }
 
 #menu > li {
@@ -93,6 +93,16 @@ main {
   background-color: #ddd;
 }
 
+.menu-toggle {
+  display: none;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.menu-toggle::after {
+  content: "\2630";
+}
+
 .active {
   border-bottom: 1px solid #3a3a3a;
 }
@@ -108,7 +118,7 @@ nav {
   top: 100%;
 }
 
-#nav-toggle:checked~nav {
+#nav-toggle:checked ~ #nav {
   display: block;
 }
 
