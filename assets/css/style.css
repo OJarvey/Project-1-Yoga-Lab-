@@ -58,7 +58,7 @@ h1 {
 main {
   background-color: #FEFAE0;
   flex: 1 0 auto;
-  margin-top: 94px;
+  margin-top: 100px;
 }
 
 /*Menu*/
@@ -75,7 +75,7 @@ main {
 
 #menu li {
   float: right;
-  margin: 0 10px;
+  margin: 0 20px;
   display: block;
 }
 
@@ -145,3 +145,45 @@ footer {
   display: inline;
   margin: 0 10px;
 }
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+  /* Header */
+  nav {
+    display: block;
+    position: relative;
+    box-shadow: none;
+    width: fit-content;
+    padding-right: 1rem;
+  }
+
+  #menu {
+    display: flex;
+  }
+
+  #menu > li {
+    padding-left: 1rem;
+  }
+
+  .nav-toggle-label {
+    display: none;
+  }
+
+  #logo {
+    font-size: 280%;
+    line-height: 75px;
+    margin: 0 0.5rem;
+  }
+
+  main {
+    margin-top: 200px;
+  }
+}
+  
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px){
+  #menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+  }
+}
+  
