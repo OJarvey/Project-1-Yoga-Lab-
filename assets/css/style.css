@@ -58,6 +58,7 @@ h1 {
 main {
   background-color: #FEFAE0;
   flex: 1 0 auto;
+  margin-top: 94px;
 }
 
 /*Menu*/
