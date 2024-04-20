@@ -3,7 +3,6 @@
 /*Asterisk wildcard selector to override default styles added by the browser*/
 * {
   padding: 0;
-  margin: 0;
   box-sizing: border-box;
 }
 
@@ -21,18 +20,11 @@ body {
   text-decoration: none;
 }
 
-/*Subtitle*/
-#subtitle {
-  font-size: 18px;
-  text-align: left;
-  font-family: "Pacifico", cursive;
-  font-style: italic;
-}
 
 /*Header*/
 header {
   text-align: left;
-  background-color: #E9EDC9;
+  background-color: #f2f2f2;
   position: fixed;
   padding: 0 1rem;
   z-index: 99;
@@ -56,9 +48,9 @@ h1 {
 }
 
 main {
-  background-color: #FEFAE0;
+  background-color: #f2f2f2;
   flex: 1 0 auto;
-  margin-top: 100px;
+  margin-top: 80px;
 }
 
 /*Menu*/
