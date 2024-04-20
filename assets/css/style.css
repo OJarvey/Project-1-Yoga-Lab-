@@ -58,6 +58,7 @@ main {
   font-size: 110%;
   letter-spacing: 4px;
   list-style-type: none;
+  background-color: #f2f2f2;
   margin: 0;
   padding: 0;
   position:relative;
@@ -67,7 +68,7 @@ main {
 
 #menu li {
   float: none;
-  margin: 0 20px;
+  margin-bottom: 10px;
   display: inline-block;
 }
 
