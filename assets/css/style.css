@@ -1,10 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
-
 /*Asterisk wildcard selector to override default styles added by the browser*/
 * {
   box-sizing: border-box;
 }
-
 /*Body*/
 body {
   display: flex;
@@ -16,33 +14,52 @@ body {
   padding: 0;
   height: 100vh;
 }
-
 /*Header*/
 header {
   text-align: left;
-  background-color: #f2f2f2;
+  background-color: white;
   position: fixed;
+  top: 0;
   padding: 0 1rem;
   z-index: 99;
   width: 100%;
-  box-shadow: 0 2px 2px #D4A373;
+  max-width: 1080px;
+  box-shadow: 0 2px 2px white;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
 }
-
 header a {
   text-decoration: none;
   color: inherit;
 }
-
 h1 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #D4A373;
 }
-
+.container {
+  width: 100%;
+  max-width: 1080px;
+  margin: 0 auto;
+  background-color: white;
+}
+.text-test {
+  display: inline-block;
+  position: relative;
+  padding: 2rem;
+}
+.text-test h1 {
+  font-size: 2rem;
+}
+.text-test h2 {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+.text-test p {
+  font-size: 1rem;
+}
 /*Menu*/
 #menu {
   font-size: 110%;
@@ -55,43 +72,35 @@ h1 {
   top: 0px;
   right: 0px;
 }
-
 #menu li {
   float: none;
   margin-bottom: 10px;
   display: inline-block;
 }
-
 #menu>li {
   margin-bottom: 1em;
 }
-
 #menu li a {
   display: block;
   padding: 10px 20px;
   text-decoration: none;
   color: #000;
 }
-
 #menu li a:hover {
-  background-color: #ddd;
+  background-color: #D4A373;
 }
-
 .menu-toggle {
   display: none;
   cursor: pointer;
   padding: 10px;
 }
-
 .menu-toggle::after {
   content: "\2630";
 }
-
 /* Drop down Menu */
 .dropdown {
   position: relative;
 }
-
 .dropdown-menu {
   display: none;
   position: absolute;
@@ -103,11 +112,9 @@ h1 {
   border: 1px solid #ccc;
   z-index: 1;
 }
-
 .dropdown:hover .dropdown-menu {
   display: block;
 }
-
 /* Navbar styles with dropdown toggle */
 nav {
   position: absolute;
@@ -120,31 +127,25 @@ nav {
   top: 100%;
   margin-top: 0;
 }
-
 /* Nav toggle */
 #nav-toggle:checked~nav {
   display: block;
 }
-
 #nav-toggle {
   display: none;
 }
-
 .nav-toggle-label {
   font-size: 2rem;
 }
-
 /* Home page images */
 .image-with-text {
   position: relative;
   width: 100%;
 }
-
 .image-with-text img {
   width: 100%; 
   display: block;
 }
-
 .image-with-text .text {
   position: absolute;
   top: 50%;
@@ -155,13 +156,11 @@ nav {
   padding: 20px;
   background-color: rgba(0, 0, 0, 0.5); 
 }
-
 .image-with-text .text h1,
 .image-with-text .text h2,
 .image-with-text .text p {
   margin: 0;
 }
-
 /* Map/Location */
 .container{
   width: 100%;
@@ -171,35 +170,29 @@ nav {
   justify-content: center;
   flex-direction: column;
   text-align: center;
-
 }
-
 iframe{
   display: block;
  margin: 0 auto;
 }
-
 section {
   max-width: 600px;
   margin: 20px auto;
   text-align: center;
 }
-
 p {
   line-height: 1.6;
 }
-
 h2 {
   text-align: center;
 }
-
 /*Footer*/
 footer {
   margin-top: auto;
   text-align: center;
   background-color: #D4A373;
+  width: 100%;
 }
-
 /*Social-Networks*/
 #social-networks {
   list-style-type: none;
@@ -208,50 +201,33 @@ footer {
   display: flex;
   justify-content: space-evenly;
 }
-
 #social-networks li {
   display: inline;
   margin: 0 10px;
 }
-
 #social-networks i {
   font-size: 160%;
   padding: 5%;
   color: #E9EDC9;
 }
-
 /* Media query for smaller screens */
 @media screen and (max-width: 768px) {
   #menu {
     display: flex;
     flex-direction: column;
   }
-
   /* Adjust the padding and margins for better spacing */
   #menu li a {
     padding: 5px 20px;
     margin-right: 10px;
-  }
-
-  .image-with-text .text {
-    font-size: 14px;
-    padding: 0px;
-    margin-top: 70%;
-  }
-  .image-with-text img{
-    position: absolute;
-    margin-top: 81px;
   }
   iframe {
     width: 100%;
     height: 300px;
   }
 }
-
-
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
-
   /* Header */
   nav {
     display: block;
@@ -260,20 +236,16 @@ footer {
     width: fit-content;
     padding-right: 1rem;
   }
-
   #menu {
     display: flex;
   }
-
   #menu>li {
     padding-left: 1rem;
   }
-
   .nav-toggle-label {
     display: none;
   }
 }
-
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
   #menu a:hover {
