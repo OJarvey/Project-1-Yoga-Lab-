@@ -242,6 +242,10 @@ footer {
     position: absolute;
     margin-top: 81px;
   }
+  iframe {
+    width: 100%;
+    height: 300px;
+  }
 }
 
 
