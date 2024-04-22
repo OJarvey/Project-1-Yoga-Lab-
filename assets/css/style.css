@@ -231,7 +231,7 @@ h2 {
   width: 400px;
   border-radius: 8px;
   padding: 20px 40px;
-  box-shadow: 0 10px 25px rgba(92, 99, 105, .2);
+  box-shadow: 0 10px 25px rgba(17, 18, 20, 0.2);
 }
 
 .inputContainer {
@@ -254,7 +254,7 @@ h2 {
   left: 0px;
   height: 100%;
   width: 100%;
-  border: 1px solid #DADCE0;
+  border: 2px solid #a9adb7;
   border-radius: 7px;
   font-size: 16px;
   padding: 0 20px;
@@ -271,7 +271,7 @@ h2 {
   left: 15px;
   padding: 0 4px;
   background-color: white;
-  color: #DADCE0;
+  color: #696d73;
   font-size: 16px;
   transition: 0.5s;
   z-index: 0;
@@ -302,6 +302,18 @@ h2 {
   font-size: 14px;
   font-weight: 600;
   color: #D4A373;
+}
+
+.input:focus {
+  border: 2px solid #D4A373;
+}
+
+.input:not(:placeholder-shown)+ .label {
+  top: -7px;
+  left: 3px;
+  z-index: 10;
+  font-size: 14px;
+  font-weight: 600;
 }
 
 /* Hide the placeholder texts (a) */
