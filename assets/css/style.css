@@ -162,6 +162,36 @@ nav {
   margin: 0;
 }
 
+/* Map/Location */
+.container{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+
+}
+
+iframe{
+  display: block;
+ margin: 0 auto;
+}
+
+section {
+  max-width: 600px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+p {
+  line-height: 1.6;
+}
+
+h2 {
+  text-align: center;
+}
 
 /*Footer*/
 footer {
