@@ -202,6 +202,16 @@ footer {
     padding: 5px 20px;
     margin-right: 10px;
   }
+
+  .image-with-text .text {
+    font-size: 14px;
+    padding: 0px;
+    margin-top: 70%;
+  }
+  .image-with-text img{
+    position: absolute;
+    margin-top: 81px;
+  }
 }
 
 
