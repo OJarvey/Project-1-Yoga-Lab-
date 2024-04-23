@@ -210,7 +210,7 @@ h2 {
   background-color: white;
   width: 400px;
   border-radius: 8px;
-  padding: 20px 40px;
+  padding: 0px 40px;
   box-shadow: 0 10px 25px rgba(17, 18, 20, 0.2);
 }
 
@@ -313,7 +313,7 @@ footer {
 /*Social-Networks*/
 #social-networks {
   list-style-type: none;
-  padding: 20 px 0;
+  padding: 20px 0;
   text-align: center;
   display: flex;
   justify-content: space-evenly;
