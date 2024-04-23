@@ -14,7 +14,6 @@ body {
   font-family: 'Hind Siliguri', sans-serif;
   margin: 0;
   padding: 0;
-  padding-top: 600px;
   height: 100vh;
   box-sizing: border-box;
   background-color: white;
@@ -154,6 +153,7 @@ nav {
 .image-with-text img {
   width: 100%;
   display: block;
+  padding-top: 1080px;
 }
 
 .image-with-text .text {
