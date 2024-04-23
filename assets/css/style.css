@@ -119,27 +119,6 @@ h1 {
   content: "\2630";
 }
 
-/* Drop down Menu */
-.dropdown {
-  position: relative;
-}
-
-.dropdown-menu {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: auto;
-  right: auto;
-  background-color: #fff;
-  padding: 10px;
-  border: 1px solid #ccc;
-  z-index: 1;
-}
-
-.dropdown:hover .dropdown-menu {
-  display: block;
-}
-
 /* Navbar styles */
 
 nav {
