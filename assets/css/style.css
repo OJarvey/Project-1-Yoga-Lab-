@@ -173,6 +173,15 @@ nav {
   margin: 0;
 }
 
+/* The Table */
+table {
+  display: inline-block; /* Make the table behave like an inline element */
+}
+th, td {
+  border: 1px solid black;
+  padding: 5px; 
+}
+
 /* Map/Location */
 .container {
   width: 100%;
