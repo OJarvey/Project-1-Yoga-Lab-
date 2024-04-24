@@ -174,8 +174,8 @@ nav {
 }
 
 /* The Table */
-table {
-  display: inline-block; /* Make the table behave like an inline element */
+table, th, td {
+  border-collapse: collapse;
 }
 th, td {
   border: 1px solid black;
