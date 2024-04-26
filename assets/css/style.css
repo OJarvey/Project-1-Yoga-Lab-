@@ -47,6 +47,10 @@ h1 {
   color: #D4A373;
 }
 
+h3{
+  text-align: center;
+}
+
 .container {
   width: 100%;
   max-width: 1080px;
@@ -63,6 +67,7 @@ h1 {
 
 .text-test h1 {
   font-size: 2rem;
+  text-align: center;
 }
 
 .text-test h2 {
@@ -153,7 +158,7 @@ nav {
 .image-with-text img {
   width: 100%;
   display: block;
-  padding-top: 1500px;
+  padding-top: 1rem;
 }
 
 .image-with-text .text {
