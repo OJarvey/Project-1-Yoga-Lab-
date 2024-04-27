@@ -56,6 +56,7 @@ h1 {
   align-items: center;
   flex-direction: column;
   text-align: center;
+  flex: 1;
 }
 
 .text-test {
@@ -178,9 +179,16 @@ nav {
   text-align: center;
 }
 
-.text-explanation {
+
+.text-explanation p {
   text-align: center;
 }
+
+.video-container video {
+  max-width: 100%;
+  height: auto;
+}
+
 
 
 /* The Table */
@@ -222,7 +230,7 @@ h2 {
   align-items: center;
   height: 100vh;
   padding-top: 40%;
-  padding-bottom: 35%;
+  padding-bottom: 45%;
 }
 
 .form {
