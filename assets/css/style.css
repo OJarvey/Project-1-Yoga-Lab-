@@ -406,7 +406,7 @@ footer {
   }
 
   #menu {
-    display: flex;
+    display: block;
   }
 
   #menu>li {
