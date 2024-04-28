@@ -18,17 +18,20 @@ This website is designed to promote yoga, body and mind training, and fitness, c
 Balsamiq was used to design and develop this website. I used the wireframe tools to visualise my ideas and create the fundamental structural layouts for this website. 
 
 Home:
-<img src="assets\images\New Wireframe 1.png">
+<img src="assets\images\New Wireframe 1.png" width="600" height="700">
 
 About:
-<img src="assets\images\New Wireframe 2.png">
+<img src="assets\images\New Wireframe 2.png" width="600" height="700">
 
 Sign Up:
-<img src="assets\images\New Wireframe 3.png">
+<img src="assets\images\New Wireframe 3.png" width="600" height="700">
 
 Mobile:
+
 <img src="assets\images\Wireframe Mobile 1.png" width="344" height="700">
+
 <img src="assets\images\Wireframe Mobile 2.png" width="344" height="700">
+
 <img src="assets\images\Wireframe Mobile 3.png" width="344" height="700">
 
 ## Features
