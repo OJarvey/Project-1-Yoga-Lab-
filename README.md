@@ -27,6 +27,20 @@ Sign Up:
 <img src="assets\images\New Wireframe 3.png">
 
 Mobile:
-<img src="assets\images\Wireframe Mobile 1.png" width="200" height="200">
-<img src="assets\images\Wireframe Mobile 2.png" width="200" height="200">
-<img src="assets\images\Wireframe Mobile 3.png" width="200" height="200">
+<img src="assets\images\Wireframe Mobile 1.png" width="344" height="700">
+<img src="assets\images\Wireframe Mobile 2.png" width="344" height="700">
+<img src="assets\images\Wireframe Mobile 3.png" width="344" height="700">
+
+## Features
+ - Educational Content: Detailed information about various yoga exercises, their benefits, and their impact on physical and mental health.
+
+ - Video Demonstrations: Videos demonstrating different yoga poses and routines to help users understand and practice effectively.
+
+ - Location: Information about the physical location of Yoga Lab, making it easier for users to find and visit.
+
+ - Social Media Integration: Links to various social media platforms to engage with the Yoga Lab community and stay updated on events and news.
+
+ ## How to Use
+ - Navigation: Use the navigation menu to explore different sections of the website, including Home, About Us, and Contact.
+ - Content: Read articles, watch videos, and learn about the benefits of yoga.
+ - Contact: Reach out through the provided contact form or connect via social media for inquiries or feedback.
