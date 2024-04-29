@@ -78,14 +78,20 @@ Sign Up Page:
 
  - Table: Displays the weekly schedule of opening days.
 
+ <img src="assets\images\Table.png" width="400" height="400">
+
 * The Footer 
  - Social Media Integration: Links to various social media platforms to engage with the Yoga Lab community and stay updated on events and news.
+
+ <img src="assets\images\Footer.png" width="400" height="100">
 
 * About 
 - Location: Information about the physical location of Yoga Lab using a photo image, making it easier for users to find and visit.
 
 * Sign Up
 - The Sign Up page enables users to register as members of Yoga Lab by inputting essential details like email, username, and password, featuring validation for mandatory fields, password confirmation, and a registration submit button, Upon submitting the required information, users are redirected to the index.html page. Additionally, clicking on each input triggers a color change and slides the text to the top left corner for enhanced user interaction. 
+
+<img src="assets\images\sign up flicker.png" width="400" height="500">
 
 
  ## How to Use
