@@ -20,7 +20,7 @@ Balsamiq was used to design and develop this website. I used the wireframe tools
 
 Home:
 
-<img src="assets\images\New Wireframe 1.png" width="650" height="700">
+<img src="assets\images\New Wireframe 1.png" width="80%">
 
 About:
 
@@ -110,11 +110,11 @@ Sign Up Page:
 
  * W3C HTML Validator: No errors found:
 
- <img src="assets\images\Nu Html Checker.png" width="700" height="550">
+ <img src="assets\images\Nu Html Checker.png" width="70%">
 
  * W3C CSS Validator (Jigsaw): No errors found
 
-<img src="assets\images\W3C CSS Validator results.png" width="700" height="550">
+<img src="assets\images\W3C CSS Validator results.png" width="70%" >
 
   **Links**:
  - I tested and confirmed that all internal links are working and redirecting the user between the pages.
