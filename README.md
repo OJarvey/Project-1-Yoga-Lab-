@@ -55,6 +55,10 @@ Sign Up Page:
 <img src="assets\images\Project-1-Yoga-Lab-_signup.html.png" width="700" height="500">
 
 ## Features
+* Icons have been used to enhance the site design, giving a yoga icon located in favicon
+
+<img src="assets\images\icon image.png" width="250" height="100">
+
 * The Header
  -  Fixed at the top of the page, with link to home page, there is a company logo that appears on every page. 
 
