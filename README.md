@@ -106,6 +106,8 @@ Sign Up Page:
  ## Testing
  * Accessibility
 
+ <img src="assets\images\Desktop lighthouse check.png" width="400" height="200">
+
  * W3C HTML Validator: No errors found:
 
  <img src="assets\images\Nu Html Checker.png" width="400" height="200">
@@ -155,5 +157,6 @@ The following steps were taken to deploy the site:
 - Videos are credited to Yan Krukau from Pexels and cottonbro studio from Pexels [Pexels.com:](https://www.pexels.com).
 - Favicon is credited to [flaticon.com](https://www.flaticon.com/free-icons/yoga).
 - FontAwesome icons from [font awesome](https://fontawesome.com)
+- I would like to extend my sincere appreciation to my mentor for their invaluable guidance and support throughout the development of this project. Their expertise, encouragement, and insightful feedback have been instrumental in shaping the outcome of this work. I am truly grateful for their mentorship.
 
 
