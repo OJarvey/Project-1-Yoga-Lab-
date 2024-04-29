@@ -110,11 +110,11 @@ Sign Up Page:
 
  * W3C HTML Validator: No errors found:
 
- <img src="assets\images\Nu Html Checker.png" width="550" height="350">
+ <img src="assets\images\Nu Html Checker.png" width="700" height="550">
 
  * W3C CSS Validator (Jigsaw): No errors found
 
-<img src="assets\images\W3C CSS Validator results.png" width="550" height="350">
+<img src="assets\images\W3C CSS Validator results.png" width="700" height="550">
 
   **Links**:
  - I tested and confirmed that all internal links are working and redirecting the user between the pages.
