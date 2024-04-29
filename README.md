@@ -129,7 +129,7 @@ Sign Up Page:
  * Unresolved bugs:
  - There are no unresolved bugs
 
-# Features i would implement
+# Features I would add in the future
 - Interactive yoga tutorials or guided sessions.
 - A blog or news section for sharing updates and articles related to yoga and wellness.
 - Online store functionality for selling yoga-related products or merchandise.
@@ -139,12 +139,21 @@ Sign Up Page:
 ## Deployment
 The following steps were taken to deploy the site:
 
-The project was originally setup in an online repo on GitHub and a workspace opened in GitPod
-Using VSCode, the project was edited in a local dev area
-Throughout development, regular commits were added with descriptive commit messages
-These commits were pushed to GitHUb at least daily.
-Towards the end of the project, it was deployed to a live server on gitpages
-Under settings/pages, main branch was selected as the source
-Link to live site: [YOGA LAB](https://ojarvey.github.io/Project-1-Yoga-Lab-/index.html)
+- The project was originally setup in an online repo on GitHub and a workspace opened in GitPod
+- Using VSCode, the project was edited in a local dev area
+- Throughout development, regular commits were added with descriptive commit messages
+- These commits were pushed to GitHUb at least daily.
+- It was deployed to a live server on gitpages
+- Under settings/pages, main branch was selected as the source
+- Link to live site: [YOGA LAB](https://ojarvey.github.io/Project-1-Yoga-Lab-/index.html)
 
 ## Credit
+- Code used for header and overlay text, borrowed and modified from Code Institute Love Running project.
+- Code used for footer section borrowed and modified from Code Institute Love Running project. 
+- Form page credit[freecodecamp.org](https://www.freecodecamp.org).
+- Photo used in home page is credited to Photo by Andrea Piacquadio from [Pexels.com:](https://www.pexels.com).
+- Videos are credited to Yan Krukau from Pexels and cottonbro studio from Pexels [Pexels.com:](https://www.pexels.com).
+- Favicon is credited to [flaticon.com](https://www.flaticon.com/free-icons/yoga).
+- FontAwesome icons from [font awesome](https://fontawesome.com)
+
+
