@@ -48,11 +48,11 @@ Home Page:
 
 About Page: 
 
-<img src="assets\images\Yoga-Lab-_aboutus.html.png" width="700" height="700">
+<img src="assets\images\Yoga-Lab-_aboutus.html.png" width="700" height="500">
 
 Sign Up Page: 
 
-<img src="assets\images\Project-1-Yoga-Lab-_signup.html.png" width="700" height="700">
+<img src="assets\images\Project-1-Yoga-Lab-_signup.html.png" width="700" height="500">
 
 ## Features
 * The Header
@@ -63,7 +63,7 @@ Sign Up Page:
  -  On larger screens they show the text; Home, Services and Contact. On smaller screens, such as mobiles, the navigation links are situated in the burger-icon that expands when you click it.
  - When hovered over links the heighlighted link, it changes color to interact with user. On smaller devices it changes color when being clicked.
 
- <img src="assets\images\Header .png" width="300" height="100">
+ <img src="assets\images\Header .png" width="600" height="100">
 
 * The Body
  - Image: This serves as a visually engaging focal point, illustrating the essence of Yoga Lab's ethos. It conveys a sense of tranquility and mindfulness while inviting visitors to explore the transformative journey offered by Yoga Lab.
