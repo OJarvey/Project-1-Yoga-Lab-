@@ -1,5 +1,5 @@
 <img src="assets/images/amiresponsive.png">
-Welcome to the Yoga Lab website, the following ReadMe contains useful information about the website.
+Welcome to the Yoga Lab website, the following ReadMe contains useful information about the website. The site is responsive for all screen sizes.
 
 **Contents**
  - Description
@@ -57,7 +57,7 @@ Sign Up Page:
 ## Features
 * Icons have been used to enhance the site design, giving a yoga icon located in favicon
 
-<img src="assets\images\icon image.png" width="250" height="100">
+<img src="assets\images\icon image.png" width="400" height="150">
 
 * The Header
  -  Fixed at the top of the page, with link to home page, there is a company logo that appears on every page. 
@@ -110,11 +110,11 @@ Sign Up Page:
 
  * W3C HTML Validator: No errors found:
 
- <img src="assets\images\Nu Html Checker.png" width="400" height="200">
+ <img src="assets\images\Nu Html Checker.png" width="550" height="350">
 
  * W3C CSS Validator (Jigsaw): No errors found
 
-<img src="assets\images\W3C CSS Validator results.png" width="400" height="200">
+<img src="assets\images\W3C CSS Validator results.png" width="550" height="350">
 
   **Links**:
  - I tested and confirmed that all internal links are working and redirecting the user between the pages.
