@@ -103,4 +103,48 @@ Sign Up Page:
  - Content: Read articles, watch videos, and learn about the benefits of yoga.
  - Contact: Reach out through the provided sign up form or connect via social media for inquiries or feedback.
 
+ ## Testing
+ * Accessibility
 
+ * W3C HTML Validator: No errors found:
+
+ <img src="assets\images\Nu Html Checker.png" width="400" height="200">
+
+ * W3C CSS Validator (Jigsaw): No errors found
+
+<img src="assets\images\W3C CSS Validator results.png" width="400" height="200">
+
+  **Links**:
+ - I tested and confirmed that all internal links are working and redirecting the user between the pages.
+ - I tested that all external links, to social media sites, are woking and opening in a separate tab.
+ - I tested and confirm that the sign up form works, all fields are required and the email field only accepts email address, and the submit button link works which direct users to the home page.
+
+ # Bugs
+
+ - Hero image did not work, I resolved this by using the <img src=""> which fixed it.
+ - Image was taking the full width of the screen, resolved by setting the max-with of the header to 1080px.
+ - Menu was not responsive when switched to tablet screens, resolved by changing to display: block.
+ - Video on home page was not responsive on smaller screens, resolved by changing the max-width: 100% and height: auto.
+
+ * Unresolved bugs:
+ - There are no unresolved bugs
+
+# Features i would implement
+- Interactive yoga tutorials or guided sessions.
+- A blog or news section for sharing updates and articles related to yoga and wellness.
+- Online store functionality for selling yoga-related products or merchandise.
+- Integration with a scheduling system for booking yoga sessions.
+- User authentication and account management system for personalized experiences.
+
+## Deployment
+The following steps were taken to deploy the site:
+
+The project was originally setup in an online repo on GitHub and a workspace opened in GitPod
+Using VSCode, the project was edited in a local dev area
+Throughout development, regular commits were added with descriptive commit messages
+These commits were pushed to GitHUb at least daily.
+Towards the end of the project, it was deployed to a live server on gitpages
+Under settings/pages, main branch was selected as the source
+Link to live site: [YOGA LAB](https://ojarvey.github.io/Project-1-Yoga-Lab-/index.html)
+
+## Credit
