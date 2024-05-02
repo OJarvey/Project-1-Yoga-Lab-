@@ -31,7 +31,7 @@ Sign Up:
 ![wireframe 3](assets/images/new-wireframe3.png)
 Mobile:
 
-<[!wireframe mobile 1](assets/images/wireframe-mobile-1.png)
+![!wireframe mobile 1](assets/images/wireframe-mobile-1.png)
 ![wireframe mobile 2](assets/images/wireframe-mobile-2.png) 
 
 ![wireframe mobile 3](assets/images/wireframe-mobile-3.png)
