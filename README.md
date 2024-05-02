@@ -120,7 +120,7 @@ Sign Up Page:
 
  # Bugs
 
- - Hero image did not work, I resolved this by using the <img src=""> which fixed it.
+ - Hero image did not work, I resolved this by using the IMG tag which fixed it.
  - Image was taking the full width of the screen, resolved by setting the max-with of the header to 1080px.
  - Menu was not responsive when switched to tablet screens, resolved by changing to display: block.
  - Video on home page was not responsive on smaller screens, resolved by changing the max-width: 100% and height: auto.
