@@ -20,7 +20,7 @@ Balsamiq was used to design and develop this website. I used the wireframe tools
 
 Home:
 
-<img src="assets/images/new-wireframe-1.png" width="80%">
+<img src="assets/images/new-wireframe1.png" width="80%">
 
 About:
 
