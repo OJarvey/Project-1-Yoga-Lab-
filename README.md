@@ -1,4 +1,4 @@
-<img src="assets/images/amiresponsive.png">
+![responsive image](assets/images/amiresponsive.png)
 Welcome to the Yoga Lab website, the following ReadMe contains useful information about the website. The site is responsive for all screen sizes.
 
 **Contents**
@@ -20,44 +20,41 @@ Balsamiq was used to design and develop this website. I used the wireframe tools
 
 Home:
 
-<img src="assets/images/new-wireframe1.png" width="80%">
+![wireframe 1](assets/images/new-wireframe1.png)
 
 About:
 
-<img src="assets/images/new-wireframe2.png" width="650" height="700">
+![wireframe 2](assets/images/new-wireframe2.png)
 
 Sign Up:
 
-<img src="assets/images/new-wireframe3.png" width="650" height="700">
-
+![wireframe 3](assets/images/new-wireframe3.png)
 Mobile:
 
-<img src="assets/images/wireframe-mobile-1.png" width="400" height="700">
+<[!wireframe mobile 1](assets/images/wireframe-mobile-1.png)
+![wireframe mobile 2](assets/images/wireframe-mobile-2.png) 
 
-<img src="assets/images/wireframe-mobile-2.png" width="400" height="700">
-
-<img src="assets/images/wireframe-mobile-3.png" width="400" height="700">
-
+![wireframe mobile 3](assets/images/wireframe-mobile-3.png)
 ## Final Design
 
 The website closely adheres to the original wireframe plan, ensuring that the design closely aligns with the initial conceptualization. This approach emphasizes consistency between the envisioned layout and the final implementation of the website.
 
 Home Page:
 
-<img src="assets/images/project-1-yoga-lab-index.html.png" width="700" height="700">
+![index html page](assets/images/project-1-yoga-lab-index.html.png)
 
 About Page: 
 
-<img src="assets/images/yoga-lab-aboutus.html.png" width="700" height="500">
+![about us page](assets/images/yoga-lab-aboutus.html.png)
 
 Sign Up Page: 
 
-<img src="assets/images/project-1-yoga-lab-signup.html.png" width="700" height="500">
+![sign up page](assets/images/project-1-yoga-lab-signup.html.png)
 
 ## Features
 * Icons have been used to enhance the site design, giving a yoga icon located in favicon
 
-<img src="assets/images/icon-image.png" width="400" height="150">
+![icon image](assets/images/icon-image.png)
 
 * The Header
  -  Fixed at the top of the page, with link to home page, there is a company logo that appears on every page. 
@@ -66,11 +63,11 @@ Sign Up Page:
  -   Featured at the top of all three pages, the navigation links are situated to the right. 
  -  On larger screens they show the text; Home, Services and Contact. On smaller screens, such as mobiles, the navigation links are situated in the burger-icon that expands when you click it.
  
- <img src="assets/images/header.png" width="600" height="100">
+ ![header](assets/images/header.png)
 
  - When hovered over links the heighlighted link, it changes color to interact with user. On smaller devices it changes color when being clicked.
 
-<img src="assets/images/hovering.png" width="600" height="100">
+![hovering display](assets/images/hovering.png)
 
 * The Body
  - Image: This serves as a visually engaging focal point, illustrating the essence of Yoga Lab's ethos. It conveys a sense of tranquility and mindfulness while inviting visitors to explore the transformative journey offered by Yoga Lab.
@@ -82,12 +79,12 @@ Sign Up Page:
 
  - Table: Displays the weekly schedule of opening days.
 
- <img src="assets/images/table.png" width="400" height="400">
+ ![table](assets/images/table.png)
 
 * The Footer 
  - Social Media Integration: Links to various social media platforms to engage with the Yoga Lab community and stay updated on events and news.
 
- <img src="assets/images/footer.png" width="400" height="100">
+ ![footer](assets/images/footer.png)
 
 * About 
 - Location: Information about the physical location of Yoga Lab using a photo image, making it easier for users to find and visit.
@@ -95,7 +92,7 @@ Sign Up Page:
 * Sign Up
 - The Sign Up page enables users to register as members of Yoga Lab by inputting essential details like email, username, and password, featuring validation for mandatory fields, password confirmation, and a registration submit button, Upon submitting the required information, users are redirected to the index.html page. Additionally, clicking on each input triggers a color change and slides the text to the top left corner for enhanced user interaction. 
 
-<img src="assets/images/sign-up-flicker.png" width="400" height="500">
+![signup flicker](assets/images/sign-up-flicker.png)
 
 
  ## How to Use
@@ -106,15 +103,15 @@ Sign Up Page:
  ## Testing
  * Accessibility
 
- <img src="assets/images/desktop-lighthouse-check.png" width="400" height="200">
+ ![lighthouse check](assets/images/desktop-lighthouse-check.png)
 
  * W3C HTML Validator: No errors found:
 
- <img src="assets/images/nu-html-checker.png" width="70%">
+ ![html validator check](assets/images/nu-html-checker.png)
 
  * W3C CSS Validator (Jigsaw): No errors found
 
-<img src="assets/images/w3c-css-validator-results.png" width="70%" >
+![css validator check](assets/images/w3c-css-validator-results.png)
 
   **Links**:
  - I tested and confirmed that all internal links are working and redirecting the user between the pages.
