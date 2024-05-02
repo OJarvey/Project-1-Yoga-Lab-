@@ -45,7 +45,7 @@ Home Page:
 
 About Page: 
 
-![about us page](assets/images/yoga-lab-aboutus.html.png)
+![about us page](assets/images/about-us-html.png)
 
 Sign Up Page: 
 
@@ -67,7 +67,7 @@ Sign Up Page:
 
  - When hovered over links the heighlighted link, it changes color to interact with user. On smaller devices it changes color when being clicked.
 
-![hovering display](assets/images/hovering.png)
+ ![hovering display](assets/images/hovering-display.png)
 
 * The Body
  - Image: This serves as a visually engaging focal point, illustrating the essence of Yoga Lab's ethos. It conveys a sense of tranquility and mindfulness while inviting visitors to explore the transformative journey offered by Yoga Lab.
@@ -79,12 +79,12 @@ Sign Up Page:
 
  - Table: Displays the weekly schedule of opening days.
 
- ![table](assets/images/table.png)
+ ![table](assets/images/table-01.png)
 
 * The Footer 
  - Social Media Integration: Links to various social media platforms to engage with the Yoga Lab community and stay updated on events and news.
 
- ![footer](assets/images/footer.png)
+ ![footer](assets/images/footer-01.png)
 
 * About 
 - Location: Information about the physical location of Yoga Lab using a photo image, making it easier for users to find and visit.
