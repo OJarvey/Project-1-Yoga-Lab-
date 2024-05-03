@@ -196,6 +196,7 @@ table,
 th,
 td {
   border-collapse: collapse;
+  margin-bottom: 30px;
 }
 
 th,
