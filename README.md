@@ -2,14 +2,16 @@
 Welcome to the Yoga Lab website, the following ReadMe contains useful information about the website. The site is responsive for all screen sizes.
 
 **Contents**
- - Description
- - Wireframes
- - Final screenshots
- - Features
- - How to use
- - Testing
- - Deployment
- - Credits
+ - [Description](#description)
+ - [Wireframes](#wireframes)
+ - [Final screenshots](#final-design)
+ - [Features](#features)
+ - [How to use](#how-to-use)
+ - [Testing](#testing)
+ - [Bugs](#bugs)
+ - [Features I would add in the future](#features-i-would-add-in-the-future)
+ - [Deployment](#deployment)
+ - [Credits](#credit)
 
 ## Description
 This website is designed to promote yoga, body and mind training, and fitness, catering to both men and women. It aims to provide valuable information about the benefits of yoga and encourage a healthy lifestyle through regular practice.
@@ -170,7 +172,7 @@ Thank You Page:
  - I tested that all external links, to social media sites, are woking and opening in a separate tab.
  - I tested and confirm that the sign up form works, all fields are required and the email field only accepts email address, and the submit button link works which direct users to the home page.
 
- # Bugs
+ ## Bugs
 
  - Hero image did not work, I resolved this by using the IMG tag which fixed it.
  - Image was taking the full width of the screen, resolved by setting the max-with of the header to 1080px.
@@ -180,7 +182,7 @@ Thank You Page:
  * Unresolved bugs:
  - There are no unresolved bugs
 
-# Features I would add in the future
+## Features I would add in the future
 - Interactive yoga tutorials or guided sessions.
 - A blog or news section for sharing updates and articles related to yoga and wellness.
 - Online store functionality for selling yoga-related products or merchandise.
