@@ -40,19 +40,19 @@ Mobile View:
 
 Home:
 
-![!wireframe mobile 1](assets/images/wireframe-mobile-1.png)
+<img src="assets/images/wireframe-mobile-1.png" width="60%">
 
 About:
 
-![wireframe mobile 2](assets/images/wireframe-mobile-2.png) 
+<img src="assets/images/wireframe-mobile-2.png" width="60%"> 
 
 Sign Up:
 
-![wireframe mobile 3](assets/images/wireframe-mobile-3.png)
+<img src="assets/images/wireframe-mobile-3.png" width="60%">
 
 Thank you: 
 
-![wireframe mobile 4](assets/images/wireframe-mobile-4.png)
+<img src="assets/images/wireframe-mobile-4.png" width="60%">
 
 ## Final Design
 
@@ -79,18 +79,20 @@ Thank You Page:
 Mobile View:
 
 Home Page:
-![index html mobile](assets/images/index-html-mobile.png)
+
+<img src="assets/images/index-html-mobile.png" width="60%">
 
 About Page:
-![about html mobile](assets/images/aboutus-html-mobile.png)
+
+<img src="assets/images/aboutus-html-mobile.png" width="60%">
 
 Sign Up Page:
 
-![sign up html mobile](assets/images/signup-html-mobile.png)
+<img src="assets/images/signup-html-mobile.png" width="60%">
 
 Thank You Page:
 
-![thank you html mobile](assets/images/thankyou-html-mobile.png)
+<img src="assets/images/thankyou-html-mobile.png" width="60%">
 
 ## Features
 * Icons have been used to enhance the site design, giving a yoga icon located in favicon
