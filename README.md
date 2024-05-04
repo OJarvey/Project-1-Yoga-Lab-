@@ -178,6 +178,7 @@ Thank You Page:
  - Image was taking the full width of the screen, resolved by setting the max-with of the header to 1080px.
  - Menu was not responsive when switched to tablet screens, resolved by changing to display: block.
  - Video on home page was not responsive on smaller screens, resolved by changing the max-width: 100% and height: auto.
+ - On sign up page h2 header was disappearing under the header on small screens 630px, resolved by adding media query setting margin-top and margin-bottom.
 
  * Unresolved bugs:
  - There are no unresolved bugs

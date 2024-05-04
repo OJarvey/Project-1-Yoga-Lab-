@@ -368,6 +368,15 @@ footer {
   color: #E9EDC9;
 }
 
+/* Media query for small screens*/ 
+@media screen and (max-width: 640px) {
+  .signupFrm {
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+  }
+}
+
+
 /* Media query for smaller screens */
 @media screen and (max-width: 768px) {
   #menu {
