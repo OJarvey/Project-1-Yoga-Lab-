@@ -18,6 +18,8 @@ This website is designed to promote yoga, body and mind training, and fitness, c
 
 Balsamiq was used to design and develop this website. I used the wireframe tools to visualise my ideas and create the fundamental structural layouts for this website. 
 
+PC View: 
+
 Home:
 
 ![wireframe 1](assets/images/new-wireframe1.png)
@@ -29,15 +31,34 @@ About:
 Sign Up:
 
 ![wireframe 3](assets/images/new-wireframe3.png)
-Mobile:
+
+Thank you:
+
+![wireframe 4](assets/images/new-wireframe4.png)
+
+Mobile View:
+
+Home:
 
 ![!wireframe mobile 1](assets/images/wireframe-mobile-1.png)
+
+About:
+
 ![wireframe mobile 2](assets/images/wireframe-mobile-2.png) 
 
+Sign Up:
+
 ![wireframe mobile 3](assets/images/wireframe-mobile-3.png)
+
+Thank you: 
+
+![wireframe mobile 4](assets/images/wireframe-mobile-4.png)
+
 ## Final Design
 
 The website closely adheres to the original wireframe plan, ensuring that the design closely aligns with the initial conceptualization. This approach emphasizes consistency between the envisioned layout and the final implementation of the website.
+
+PC View:
 
 Home Page:
 
@@ -50,6 +71,26 @@ About Page:
 Sign Up Page: 
 
 ![sign up page](assets/images/project-1-yoga-lab-signup.html.png)
+
+Thank You Page:
+
+![thank you page](assets/images/thankyou-html-pc.png)
+
+Mobile View:
+
+Home Page:
+![index html mobile](assets/images/index-html-mobile.png)
+
+About Page:
+![about html mobile](assets/images/aboutus-html-mobile.png)
+
+Sign Up Page:
+
+![sign up html mobile](assets/images/signup-html-mobile.png)
+
+Thank You Page:
+
+![thank you html mobile](assets/images/thankyou-html-mobile.png)
 
 ## Features
 * Icons have been used to enhance the site design, giving a yoga icon located in favicon
@@ -87,10 +128,19 @@ Sign Up Page:
  ![footer](assets/images/footer-01.png)
 
 * About 
+- Our Story: Yoga Lab's journey, reflecting its evolution, values, and commitment to promoting holistic well-being through yoga.
+
+- Our Philosophy: Yoga Lab's holistic approach to yoga, emphasizing its role not just as physical exercise but as a lifestyle encompassing breathwork, meditation, and mindfulness to foster balance and inner peace in modern life.
+
+- Our Commitment: highlights the dedication to providing high-quality yoga instruction, fostering community, and promoting overall well-being through accessible classes, workshops, and events.
+
+- Join Our Community: invitation for individuals to become part of a supportive and inclusive network focused on holistic wellness and personal growth through yoga practice.
+
 - Location: Information about the physical location of Yoga Lab using a photo image, making it easier for users to find and visit.
 
 * Sign Up
 - The Sign Up page enables users to register as members of Yoga Lab by inputting essential details like email, username, and password, featuring validation for mandatory fields, password confirmation, and a registration submit button, Upon submitting the required information, users are redirected to the index.html page. Additionally, clicking on each input triggers a color change and slides the text to the top left corner for enhanced user interaction. 
+
 
 ![signup flicker](assets/images/sign-up-flicker.png)
 
