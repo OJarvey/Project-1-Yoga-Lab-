@@ -230,7 +230,7 @@ h2 {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  padding-top: 40%;
+  padding-top: 35%;
   padding-bottom: 45%;
 }
 
@@ -368,20 +368,16 @@ footer {
   color: #E9EDC9;
 }
 
-/* Media query for small screens*/ 
-@media screen and (max-width: 640px) {
-  .signupFrm {
-    margin-top: 1rem;
-    margin-bottom: 4rem;
-  }
-}
-
-
 /* Media query for smaller screens */
 @media screen and (max-width: 768px) {
   #menu {
     display: flex;
     flex-direction: column;
+  }
+
+  .signupFrm {
+    margin-top: 2rem;
+    margin-bottom: 4rem;
   }
 
   /* Adjust the padding and margins for better spacing */
